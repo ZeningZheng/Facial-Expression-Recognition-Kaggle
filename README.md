@@ -6,7 +6,7 @@ https://www.kaggle.com/c/facial-expressions-bda-2021/leaderboard
 ### Candidate machine learning methods:
 Models: Prediction Tree, Ridge regression, Lasso regression, KNN, KNNS LDA, QDA,SVM
 
-Features: Raw Pixels, FreySlateFeatures, Hog Features
+Features: Raw Pixels, FreySlateFeatures, Histogram of Oriented Gradients (HOG) Features
 
 ### data:
 CK+ data base.
