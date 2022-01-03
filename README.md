@@ -10,3 +10,5 @@ Features: Raw Pixels, FreySlateFeatures, Hog Features
 
 ### data:
 CK+ data base.
++ gray scale
++ 48 by 48 pixels
