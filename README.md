@@ -3,12 +3,15 @@ This is a group project for the course Big Data Analytics that I worked on with 
 
 https://www.kaggle.com/c/facial-expressions-bda-2021/leaderboard
 
-### Candidate machine learning methods:
-Models: Prediction Tree, Ridge regression, Lasso regression, KNN, KNNS LDA, QDA,SVM
+#### Aim
+Build an algorithm that is able to recognize emotions from photographs from facial expressions. The data set contains photos of faces that express one of the following emotions:
+Anger, Disgust, Happiness, Sadness
 
-Features: Raw Pixels, FreySlateFeatures, Histogram of Oriented Gradients (HOG) Features
+#### Candidate machine learning methods:
++ Features: Raw Pixels, FreySlateFeatures, Histogram of Oriented Gradients (HOG) Features
++ Models: Prediction Tree, Ridge regression, Lasso regression, KNN, KNNS LDA, QDA,SVM
 
-### data:
+#### data:
 CK+ data base.
 + gray scale
 + 48 by 48 pixels
